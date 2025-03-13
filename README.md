@@ -96,7 +96,8 @@ This is a simple two-player Ping Pong game built using Python and Pygame. Player
 - If the ball exits on the left side, Player 2 scores a point.
 - If the ball exits on the right side, Player 1 scores a point.
 - The game continues indefinitely.
-
+## Gameplay peview 
+![Ping Pong Game Screenshot](Game_Preview.png)
 ## Future Improvements
 - Add sound effects for collisions
 - Implement AI for single-player mode
